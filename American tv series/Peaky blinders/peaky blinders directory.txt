@@ -1,0 +1,11 @@
+#######################################################################################################################################
+<poster>Staael1982</poster>
+<fanart></fanart>
+#######################################################################################################################################
+
+
+<dir>
+<name>Peaky blinders season 1</name>
+<link>https://github.com/xbmctalk/Staael1982/raw/master/American%20tv%20series/Peaky%20blinders/peaky%20blinders%20season1.xml</link>
+<thumbnail>http://8pic.ir/images/23852588304915960301.jpg</thumbnail>
+</dir>

@@ -1,0 +1,286 @@
+#######################################################################################################################################
+<poster>Staael1982</poster>
+<fanart></fanart>
+#######################################################################################################################################
+
+<item>
+<title>DR1</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e20_wcif.sdp/e20_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://digitalt.tv/wp-content/uploads/dr1_logo.png</thumbnail>
+</item>
+
+<item>
+<title>DR2</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e21_wcif.sdp/e21_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.julestads.dk/wp-content/uploads/2011/10/dr2-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DR3</title>
+<link>http://ys-live.ds.cdn.yousee.tv:80/iPhone/rtpencoder/e701_wcif.sdp/e701_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.hgtv.dk/gfx/logobank/DR3.jpg</thumbnail>
+</item>
+
+<item>
+<title>DR K</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e38_wcif.sdp/e38_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://digitalt.tv/wp-content/uploads/2013/09/drk_logo.png</thumbnail>
+</item>
+
+<item>
+<title>TV2</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e22_wcif.sdp/e22_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://i1.sndcdn.com/artworks-000013112912-sn3jzq-t500x500.jpg?cc07a88</thumbnail>
+</item>
+
+<item>
+<title>TV2 zulu</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e24_wcif.sdp/e24_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://digitalt.tv/wp-content/uploads/TV2_zulu_logo.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 charlie</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e25_wcif.sdp/e25_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.halsantenne.dk/images/TV2%20Charlie%20logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV2 News</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e23_wcif.sdp/e23_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://digitalekopier.dk/wp-content/uploads/2012/10/24018183-58b7076c289a3a8e4aa0e4e095b4dbb9.jpeg</thumbnail>
+</item>
+
+<item>
+<title>TV2 Fri</title>
+<link>http://tv2dkidevta-i.akamaihd.net:80/hls/live/207748/tv2fri/master_Layer6.m3u8</link>
+<thumbnail>http://digitalt.tv/wp-content/uploads/tv2_fri_logo-e1364388541583.png</thumbnail>
+</item>
+
+<item>
+<title>TV3</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e39_wcif.sdp/e39_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.mmonline.hu/image/original/100063_c3d619b305.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV3 puls</title>
+<link>http://viasatlive1-i.akamaihd.net:80/hls/live/202795/tv3puls/wifi1500.m3u8</link>
+<thumbnail>http://www.tvnyt.com/images/feed/logoer/tv3puls_300.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kanal 4</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e58_wcif.sdp/e58_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.antenne-eksperten.dk/media/kanal_4_270.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kanal 5</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e56_wcif.sdp/e56_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.flatpanels.dk/billeder/kanal5logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>6'eren</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e57_wcif.sdp/e57_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://images2.wikia.nocookie.net/__cb20100202112352/logopedia/images/8/8c/6'eren_logo.svg</thumbnail>
+</item>
+
+<item>
+<title>7'eren</title>
+<link>http://kd-cds-se1.se.ys-live.ds.cdn.yousee.tv:80/iPhone/rtpencoder/e802_wcif.sdp/e802_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://static.timefor.tv/imgs/epg/logos/7eren_big.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 8</title>
+<link>http://viasatlive1-i.akamaihd.net/hls/live/206922/canal8dkebs/wifi2200.m3u8</link>
+<thumbnail>http://www.tennis.dk/Nyheder/2012/November/~/media/Images/Billeder/Logoer%20mv/Canal8symboltextred.ashx</thumbnail>
+</item>
+
+<item>
+<title>Canal 9</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e54_wcif.sdp/e54_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_9_Danmark.svg</thumbnail>
+</item>
+
+<item>
+<title>DK4</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e35_wcif.sdp/e35_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.denstoredanske.dk/@api/deki/files/6874/=319006766.801.png?size=webview</thumbnail>
+</item>
+
+<item>
+<title>TLC</title>
+<link>http://kd-cds-se1.se.ys-live.ds.cdn.yousee.tv:80/iPhone/rtpencoder/e772_wcif.sdp/e772_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://medianewsline.com/wp-content/uploads/2013/02/tlc-_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TNT</title>
+<link>http://ys-live.ds.cdn.yousee.tv:80/iPhone/rtpencoder/e721_wcif.sdp/e721_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://thetestmarketevolution.com/wp-content/uploads/2012/05/tnt-logo-01.jpg</thumbnail>
+</item>
+
+<item>
+<title>Discovery</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e44_wcif.sdp/e44_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://img.dooyoo.co.uk/GB_EN/orig/0/0/2/3/0/23061.jpg</thumbnail>
+</item>
+
+<item>
+<title>National geographic</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e34_wcif.sdp/e34_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://stat.ameba.jp/user_images/20120517/04/999gonui666/2b/c0/j/o0586056411977149556.jpg</thumbnail>
+</item>
+
+<item>
+<title>Animal planet</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e45_wcif.sdp/e45_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://dominiquelonegran.blogg.se/images/2010/-animal-planet-podcasts-f312_69474190.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC Entertainmant</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e48_wcif.sdp/e48_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.sdtv.gr/photoshare/image-CD86_517802B1.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC Knowledge</title>
+<link>http://ys-live.ds.cdn.yousee.tv:80/iPhone/rtpencoder/e26_wcif.sdp/e26_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.europe-asia-documentary.com/wp-content/uploads/2011/07/BBC-Knowledge-Honk-If-Youre-Human-by-Sean-Pecknold-a-Stop-Motion-Animation-for-BBC-Knowledge.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV3 sport 1 HD</title>
+<link>http://viasatlive1-i.akamaihd.net/hls/live/207015/tv3sport1HD/wifi3000.m3u8</link>
+<thumbnail>http://www.danelca.com/Webnodes/binary/w119/image_3355.bmp</thumbnail>
+</item>
+
+<item>
+<title>TV3 sport 2 HD</title>
+<link>http://viasatlive5-i.akamaihd.net/hls/live/207018/tv3sport2HD/wifi3000.m3u8</link>
+<thumbnail>http://static.timefor.tv/imgs/epg/logos/tv3sport2hd_big.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport</title>
+<link>http://esioslive-i.akamaihd.net/hls/live/200721/AL_ESP1_NORDIC_DAN/playlist_1800.m3u8</link>
+<thumbnail>http://l.yimg.com/bt/api/res/1.2/cvOmJWScpAKfWZ8T_45o.w--/YXBwaWQ9eW5ld3M7Y2g9MzYwO2NyPTE7Y3c9NjQwO2R4PTA7ZHk9MDtmaT11bGNyb3A7aD0zNTU7cT04NTt3PTYzMA--/http://media.zenfs.com/en_GB/Sports/Eurosport/906770-15117071-640-360.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 2</title>
+<link>http://esioslive3-i.akamaihd.net/hls/live/200729/AL_ESP2_BL_DAN/playlist_1800.m3u8</link>
+<thumbnail>http://www.balkanje.net/uploads/thumbs/68a34c209-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e27_wcif.sdp/e27_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.sleepwalkingmag.com/wp-content/uploads/2009/05/mtv.jpg</thumbnail>
+</item>
+
+<item>
+<title>VH1</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e33_wcif.sdp/e33_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://images.tvrage.com/shows/37/36563.jpg</thumbnail>
+</item>
+
+<item>
+<title>TCM</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e41_wcif.sdp/e41_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-shF-Mb99mrg/UGAWpXXZFpI/AAAAAAAACrQ/uYq-1t663T0/s1600/TCM-1.gif</thumbnail>
+</item>
+
+<item>
+<title>C more first</title>
+<link>http://ys-live.ds.cdn.yousee.tv:80/iPhone_scr/rtpencoder/scr/e71_low.sdp/e71_low.sdp-mr2548k.m3u8</link>
+<thumbnail>http://digitalt.tv/wp-content/uploads/C_More_logo.png</thumbnail>
+</item>
+
+<item>
+<title>C more hits</title>
+<link>http://ys-live.ds.cdn.yousee.tv:80/iPhone_scr/rtpencoder/scr/e52_low.sdp/e52_low.sdp-mr2548k.m3u8</link>
+<thumbnail>http://digitalt.tv/wp-content/uploads/C_More_logo.png</thumbnail>
+</item>
+
+<item>
+<title>C more emotion</title>
+<link>http://ys-live.ds.cdn.yousee.tv:80/iPhone/rtpencoder/e60_low.sdp/e60_low.sdp-mr2548k.m3u8</link>
+<thumbnail>http://digitalt.tv/wp-content/uploads/C_More_logo.png</thumbnail>
+</item>
+
+<item>
+<title>C more action</title>
+<link>http://ys-live.ds.cdn.yousee.tv:80/iPhone_scr/rtpencoder/scr/e53_low.sdp/e53_low.sdp-mr2548k.m3u8</link>
+<thumbnail>http://digitalt.tv/wp-content/uploads/C_More_logo.png</thumbnail>
+</item>
+
+<item>
+<title>C more Serier</title>
+<link>http://ys-live.ds.cdn.yousee.tv:80/iPhone_scr/rtpencoder/scr/e70_low.sdp/e70_low.sdp-mr2548k.m3u8</link>
+<thumbnail>http://digitalt.tv/wp-content/uploads/C_More_logo.png</thumbnail>
+</item>
+
+<item>
+<title>C more kids</title>
+<link>http://ys-live.ds.cdn.yousee.tv:80/iPhone_scr/rtpencoder/scr/e61_low.sdp/e61_low.sdp-mr2548k.m3u8</link>
+<thumbnail>http://digitalt.tv/wp-content/uploads/C_More_logo.png</thumbnail>
+</item>
+
+<item>
+<title>DR ramasjang</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e50_wcif.sdp/e50_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.haderslevbibliotek.dk/files/UserDir/Images/nyheder/dr-ramasjang.jpg</thumbnail>
+</item>
+
+<item>
+<title>DR ultra</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e31_wcif.sdp/e31_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://bproduction.dk/wp-content/uploads/2013/02/DR-Ultra_logo-e1360759844977.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cartoon network</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e47_wcif.sdp/e47_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>https://si0.twimg.com/profile_images/1579765902/800px-CARTOON_NETWORK_logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Nickelodeon</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e32_wcif.sdp/e32_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.3desktop.net/free-wallpapers/cartoon/Nickelodeon-sponge.jpg</thumbnail>
+</item>
+
+<item>
+<title>Disney channel</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e40_wcif.sdp/e40_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.disneyonline.dk/upload/62/disney-channel-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Disney junior</title>
+<link>http://ys-live.ds.cdn.yousee.tv:80/iPhone/rtpencoder/e771_wcif.sdp/e771_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://images.wikia.com/disney/images/6/63/Disney_junior_02.jpg</thumbnail>
+</item>
+
+<item>
+<title>Viasat extra 1</title>
+<link>http://viasatlive1-i.akamaihd.net/hls/live/202784/xtra1/wifi2000.m3u8</link>
+<thumbnail>http://img.reitingi.lv/timthumb.php?src=news/427px-Viasat_logo_2000_svg.jpg&w=400&zc=1&q=90</thumbnail>
+</item>
+
+<item>
+<title>Viasat extra 2</title>
+<link>http://viasatlive2-i.akamaihd.net:80/hls/live/202785/xtra2/wifi3000.m3u8</link>
+<thumbnail>http://img.reitingi.lv/timthumb.php?src=news/427px-Viasat_logo_2000_svg.jpg&w=400&zc=1&q=90</thumbnail>
+</item>
+
+<item>
+<title>Viasat extra 3</title>
+<link>http://viasatlive3-i.akamaihd.net:80/hls/live/202786/xtra3/wifi3000.m3u8</link>
+<thumbnail>http://img.reitingi.lv/timthumb.php?src=news/427px-Viasat_logo_2000_svg.jpg&w=400&zc=1&q=90</thumbnail>
+</item>
